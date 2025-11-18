@@ -21,13 +21,13 @@ IntensityAmount=0
 IntensityEffect=0
 
 [Colors:Button]
-BackgroundAlternate=46,48,51
+BackgroundAlternate=62,62,64
 BackgroundNormal=41,44,48
-DecorationFocus=49,51,53
-DecorationHover=49,51,53
-ForegroundActive=49,51,53
+DecorationFocus=71,71,71
+DecorationHover=71,71,71
+ForegroundActive=71,71,71
 ForegroundInactive=161,169,177
-ForegroundLink=184,189,194
+ForegroundLink=191,191,191
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
 ForegroundNormal=252,252,252
@@ -37,11 +37,11 @@ ForegroundVisited=155,89,182
 [Colors:Complementary]
 BackgroundAlternate=30,87,116
 BackgroundNormal=32,35,38
-DecorationFocus=49,51,53
-DecorationHover=49,51,53
-ForegroundActive=49,51,53
+DecorationFocus=71,71,71
+DecorationHover=71,71,71
+ForegroundActive=71,71,71
 ForegroundInactive=161,169,177
-ForegroundLink=184,189,194
+ForegroundLink=191,191,191
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
 ForegroundNormal=252,252,252
@@ -51,11 +51,11 @@ ForegroundVisited=155,89,182
 [Colors:Header]
 BackgroundAlternate=32,35,38
 BackgroundNormal=41,44,48
-DecorationFocus=49,51,53
-DecorationHover=49,51,53
-ForegroundActive=49,51,53
+DecorationFocus=71,71,71
+DecorationHover=71,71,71
+ForegroundActive=71,71,71
 ForegroundInactive=161,169,177
-ForegroundLink=184,189,194
+ForegroundLink=191,191,191
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
 ForegroundNormal=252,252,252
@@ -77,13 +77,13 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [Colors:Selection]
-BackgroundAlternate=40,42,44
-BackgroundNormal=40,42,44
-DecorationFocus=49,51,53
-DecorationHover=49,51,53
-ForegroundActive=49,51,53
+BackgroundAlternate=55,56,56
+BackgroundNormal=55,56,56
+DecorationFocus=71,71,71
+DecorationHover=71,71,71
+ForegroundActive=71,71,71
 ForegroundInactive=255,255,255
-ForegroundLink=49,51,53
+ForegroundLink=52,52,52
 ForegroundNegative=176,55,69
 ForegroundNeutral=198,92,0
 ForegroundNormal=255,255,255
@@ -93,11 +93,11 @@ ForegroundVisited=155,89,182
 [Colors:Tooltip]
 BackgroundAlternate=32,35,38
 BackgroundNormal=41,44,48
-DecorationFocus=49,51,53
-DecorationHover=49,51,53
-ForegroundActive=49,51,53
+DecorationFocus=71,71,71
+DecorationHover=71,71,71
+ForegroundActive=71,71,71
 ForegroundInactive=161,169,177
-ForegroundLink=184,189,194
+ForegroundLink=191,191,191
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
 ForegroundNormal=252,252,252
@@ -107,11 +107,11 @@ ForegroundVisited=155,89,182
 [Colors:View]
 BackgroundAlternate=29,31,34
 BackgroundNormal=20,22,24
-DecorationFocus=49,51,53
-DecorationHover=49,51,53
-ForegroundActive=49,51,53
+DecorationFocus=71,71,71
+DecorationHover=71,71,71
+ForegroundActive=71,71,71
 ForegroundInactive=161,169,177
-ForegroundLink=184,189,194
+ForegroundLink=191,191,191
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
 ForegroundNormal=252,252,252
@@ -121,26 +121,21 @@ ForegroundVisited=155,89,182
 [Colors:Window]
 BackgroundAlternate=41,44,48
 BackgroundNormal=32,35,38
-DecorationFocus=49,51,53
-DecorationHover=49,51,53
-ForegroundActive=49,51,53
+DecorationFocus=71,71,71
+DecorationHover=71,71,71
+ForegroundActive=71,71,71
 ForegroundInactive=161,169,177
-ForegroundLink=184,189,194
+ForegroundLink=191,191,191
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
 ForegroundNormal=252,252,252
 ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
-[DirSelect Dialog]
-DirSelectDialog Size=1061,758
-History Items[$e]=file:$HOME/work/xlz-airflow,file:$HOME/work/xlz-airflow,file:$HOME/work/xlz-airflow,file:$HOME/work/xlz-plataforma-backend,file:$HOME/work,file:$HOME/dev/projects/expense-tracker-concept,file:$HOME/work/xlz-airflow,file:$HOME/work/xlz-plataforma-backend,file:$HOME/work/xlz-airflow,file:$HOME/work/xlz-airflow,file:$HOME/work/xlz-airflow,file:$HOME/work/xlz-airflow,file:$HOME/dev/projects/expense-tracker-concept,file:$HOME/dev/courses/course-fs-webdev-w-django/templates,file:$HOME/dev/projects/expense-tracker-concept,file:$HOME/dev/projects/expense-tracker-concept,file:$HOME/dev/courses/ccourse-fs-webdev-w-django,file:$HOME/dev/courses/fs-webdev-w-django,file:$HOME/dev/courses/fs-webdev-w-django,file:$HOME/dev,file:$HOME/Documents/bash,file:$HOME/dev/courses/fs-webdev-w-django,file:$HOME/dev/courses/fs-webdev-w-django,file:$HOME/dev/courses/fs-webdev-w-django,file:$HOME/dev,file:$HOME/dev/courses/fs-webdev-w-django,file:$HOME/dev,file:$HOME/dev/courses/fs-webdev-w-django,file:///dev,file:$HOME/dev/courses/fs-webdev-w-django,file:$HOME/dev,file:$HOME/dev/courses/fs-webdev-w-django,file:$HOME/dev,file:///mnt/secondary/heroic-games/prefixes,file:///mnt/secondary/heroic-games/games,file:///run/media/benigno,file:$HOME/Documents/development/courses/data-analysis-w-pandas,file:///run/media/benigno/secondary,file:///run/media/benigno/secondary/HeroicGames/Prefixes/default,file:///run/media/benigno/secondary/HeroicGames,file:$HOME/Downloads,file:$HOME/Documents/development/scripts,file:$HOME/Pictures/screenshots,file:$HOME/Pictures
-Splitter State=\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00\x8a\x00\x00\x02\xa8\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
-
 [General]
-AccentColor=49,51,53
-ColorSchemeHash=8ff306d9a93379c74540e00506966df24df1798b
-LastUsedCustomAccentColor=49,51,53
+AccentColor=71,71,71
+ColorSchemeHash=2c3f86428c11011a7c64ee1e7f47c274d498ff10
+LastUsedCustomAccentColor=71,71,71
 TerminalApplication=kitty
 TerminalService=kitty.desktop
 UseSystemBell=true
@@ -148,19 +143,16 @@ UseSystemBell=true
 [KDE]
 AnimationDurationFactor=0
 LookAndFeelPackage=org.kde.breezedark.desktop
-ShowDeleteCommand=false
-SingleClick=false
+ShowIconsInMenuItems=false
+ShowIconsOnPushButtons=false
 
 [KFileDialog Settings]
 Allow Expansion=false
 Automatically select filename extension=true
 Breadcrumb Navigation=true
 Decoration position=2
-LocationCombo Completionmode=5
-PathCombo Completionmode=5
-Show Bookmarks=false
-Show Full Path=false
-Show Inline Previews=false
+Show Full Path=true
+Show Inline Previews=true
 Show Preview=false
 Show Speedbar=true
 Show hidden files=false
@@ -169,21 +161,15 @@ Sort directories first=true
 Sort hidden files last=false
 Sort reversed=false
 Speedbar Width=140
-View Style=DetailTree
-
-[KShortcutsDialog Settings]
-Dialog Size=600,480
-
-[Locale]
-BinaryUnitDialect=1
+View Style=Detail
 
 [PreviewSettings]
 EnableRemoteFolderThumbnail=false
 MaximumRemoteSize=0
 
-[Shortcuts]
-Preferences=Ctrl+,
-Redo=Ctrl+Y
+[Toolbar style]
+ToolButtonStyle=NoText
+ToolButtonStyleOtherToolbars=NoText
 
 [WM]
 activeBackground=39,44,49

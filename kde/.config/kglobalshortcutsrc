@@ -1,5 +1,6 @@
 [ActivityManager]
 _k_friendly_name=Activity Manager
+switch-to-activity-23b452a5-a410-47b0-8127-3e8066698bde=none,none,Switch to activity "Default"
 switch-to-activity-309ca6d7-7278-4e17-a615-4c03f6bfbc66=none,none,Switch to activity "Default"
 
 [KDE Keyboard Layout Switcher]
@@ -139,7 +140,7 @@ Window One Screen Down=none,,Move Window One Screen Down
 Window One Screen Up=none,,Move Window One Screen Up
 Window One Screen to the Left=none,,Move Window One Screen to the Left
 Window One Screen to the Right=none,,Move Window One Screen to the Right
-Window Operations Menu=Alt+F3,Alt+F3,Window Operations Menu
+Window Operations Menu=Alt+F3,Alt+F3,Window Menu
 Window Pack Down=none,,Move Window Down
 Window Pack Left=none,,Move Window Left
 Window Pack Right=none,,Move Window Right
@@ -154,7 +155,7 @@ Window Quick Tile Top Left=none,,Quick Tile Window to the Top Left
 Window Quick Tile Top Right=none,,Quick Tile Window to the Top Right
 Window Raise=none,,Raise Window
 Window Resize=none,,Resize Window
-Window Shade=none,,Shade Window
+Window Shade=none,none,Shade Window
 Window Shrink Horizontal=none,,Shrink Window Horizontally
 Window Shrink Vertical=none,,Shrink Window Vertically
 Window to Desktop 1=none,,Window to Desktop 1
@@ -246,25 +247,21 @@ manage activities=Meta+Q,Meta+Q,Show Activity Switcher
 next activity=none,none,Walk through activities
 previous activity=none,none,Walk through activities (Reverse)
 repeat_action=none,,Manually Invoke Action on Current Clipboard
-show dashboard=Ctrl+F12,Ctrl+F12,Show Desktop
+show dashboard=none,Ctrl+F12,Show Desktop
 show-barcode=none,,Show Barcode…
 show-on-mouse-pos=Meta+V,Meta+V,Show Clipboard Items at Mouse Position
-stop current activity=Meta+S,Meta+S,Stop Current Activity
 switch to next activity=none,,Switch to Next Activity
 switch to previous activity=none,,Switch to Previous Activity
 toggle do not disturb=none,,Toggle do not disturb
 
-[services][WEBFISHING.desktop]
-_launch=
-
-[services][app.zen_browser.zen.desktop]
+[services][brave-browser.desktop]
 _launch=Meta+B
 
 [services][kitty.desktop]
 _launch=Meta+Return
 
-[services][org.flameshot.Flameshot.desktop]
-Capture=Meta+Shift+S
+[services][net.local.reboot.desktop]
+_launch=Ctrl+Shift+Del
 
 [services][org.kde.konsole.desktop]
 _launch=none

@@ -1,2 +1,5 @@
+[KFileDialog Settings]
+detailViewIconSize=32
+
 [systemsettings_sidebar_mode]
 HighlightNonDefaultSettings=true
