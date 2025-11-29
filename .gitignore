@@ -2,8 +2,10 @@
 *
 
 # whitelist folders
-!kde/*
-!kitty/*
+!kde/
+!kde/**/*
+!kitty/
+!kitty/**/*
 
 # whitelist files
 !.gitignore
