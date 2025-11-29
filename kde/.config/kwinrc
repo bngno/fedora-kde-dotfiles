@@ -23,9 +23,6 @@ screenedgeEnabled=false
 shakecursorEnabled=false
 slideEnabled=false
 
-[TabBox]
-HighlightWindows=false
-
 [TabBoxAlternative]
 ActivitiesMode=0
 DesktopMode=2
@@ -39,7 +36,7 @@ padding=0
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][148173cd-2b58-44ab-85b4-514e8b847b63][4d522577-3074-44f7-adbe-37e8fb404cc2]
-tiles={"layoutDirection":"floating","tiles":[{"height":0.9826388888888888,"width":0.9992187499999999,"x":5.702903427273753e-17,"y":5.2258544713801314e-17}]}
+tiles={"layoutDirection":"floating","tiles":[{"height":0.9826388888888888,"width":0.9945312499999999,"x":5.702903427273753e-17,"y":5.2258544713801314e-17}]}
 
 [Tiling][7bbbd39f-93e1-40f1-bcb4-6ff78909d642][]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
