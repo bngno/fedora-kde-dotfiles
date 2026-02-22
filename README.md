@@ -8,7 +8,7 @@ git clone https://github.com/bngno/fedora-kde-dotfiles.git ~/dotfiles/
 ### Stowing the dotfiles
 ```bash
 cd ~/dotfiles
-stow kde vscode kitty
+make stow
 ```
 > [!IMPORTANT]
-> To use GNU's `stow` command, the **stow** package needs to be installed at first. 
+> To use the given command, the **stow** package needs to be installed at first. 
