@@ -134,17 +134,24 @@ ForegroundVisited=155,89,182
 
 [General]
 AccentColor=71,71,71
+ColorScheme=BreezeDark
 ColorSchemeHash=2c3f86428c11011a7c64ee1e7f47c274d498ff10
 LastUsedCustomAccentColor=71,71,71
 TerminalApplication=kitty
 TerminalService=kitty.desktop
 UseSystemBell=true
 
+[Icons]
+Theme=Papirus-Dark
+
 [KDE]
 AnimationDurationFactor=0
+DndBehavior=AlwaysAsk
 LookAndFeelPackage=org.kde.breezedark.desktop
 ShowIconsInMenuItems=false
 ShowIconsOnPushButtons=false
+contrast=4
+frameContrast=0.2
 
 [KFileDialog Settings]
 Allow Expansion=false
@@ -159,9 +166,13 @@ Show hidden files=false
 Sort by=Name
 Sort directories first=true
 Sort hidden files last=false
-Sort reversed=false
+Sort reversed=true
 Speedbar Width=140
 View Style=Detail
+
+[KScreen]
+ScreenScaleFactors=DP-2=1;
+XwaylandClientsScale=true
 
 [PreviewSettings]
 EnableRemoteFolderThumbnail=false
