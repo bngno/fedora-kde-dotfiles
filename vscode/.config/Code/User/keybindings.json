@@ -37,7 +37,7 @@
         "when": "editorTextFocus"
     },
     {
-        "key": "ctrl+shift+f8",
+        "key": "shift+f8",
         "command": "workbench.trust.manage"
     },
     {
