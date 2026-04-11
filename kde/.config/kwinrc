@@ -4,9 +4,9 @@ Id_2=d0eff556-0b13-47b5-b07c-6db234a19cd4
 Id_3=148173cd-2b58-44ab-85b4-514e8b847b63
 Id_4=a9d19f1f-a8d3-4393-a452-fa485761432e
 Name_1=home
-Name_2=comms
-Name_3=dev-1
-Name_4=dev-2
+Name_2=dev-1
+Name_3=dev-2
+Name_4=comms
 Number=4
 Rows=1
 
@@ -17,7 +17,7 @@ BorderActivate=9
 TabletMode=off
 
 [Plugins]
-blurEnabled=false
+blurEnabled=true
 contrastEnabled=false
 screenedgeEnabled=false
 shakecursorEnabled=false
@@ -30,13 +30,19 @@ HighlightWindows=false
 LayoutName=big_icons
 
 [Tiling][148173cd-2b58-44ab-85b4-514e8b847b63][]
+padding=4
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][148173cd-2b58-44ab-85b4-514e8b847b63][4d522577-3074-44f7-adbe-37e8fb404cc2]
 padding=4
 tiles={"layoutDirection":"floating","tiles":[{"height":0.9826388888888888,"width":0.9945312499999999,"x":5.702903427273753e-17,"y":5.2258544713801314e-17}]}
 
+[Tiling][6bbb8eee-71d8-4f87-a450-b7db5f11ea67][4d522577-3074-44f7-adbe-37e8fb404cc2]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Tiling][7bbbd39f-93e1-40f1-bcb4-6ff78909d642][]
+padding=4
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][7bbbd39f-93e1-40f1-bcb4-6ff78909d642][4d522577-3074-44f7-adbe-37e8fb404cc2]
@@ -44,6 +50,7 @@ padding=0
 tiles={"layoutDirection":"floating","tiles":[]}
 
 [Tiling][a9d19f1f-a8d3-4393-a452-fa485761432e][]
+padding=4
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][a9d19f1f-a8d3-4393-a452-fa485761432e][4d522577-3074-44f7-adbe-37e8fb404cc2]
@@ -54,6 +61,7 @@ tiles={"layoutDirection":"floating","tiles":[{"height":0.5034722222222214,"width
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][d0eff556-0b13-47b5-b07c-6db234a19cd4][]
+padding=4
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][d0eff556-0b13-47b5-b07c-6db234a19cd4][4d522577-3074-44f7-adbe-37e8fb404cc2]

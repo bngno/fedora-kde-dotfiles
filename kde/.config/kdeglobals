@@ -148,6 +148,7 @@ Theme=Papirus-Dark
 AnimationDurationFactor=0
 DndBehavior=AlwaysAsk
 LookAndFeelPackage=org.kde.breezedark.desktop
+ShowDeleteCommand=false
 ShowIconsInMenuItems=false
 ShowIconsOnPushButtons=false
 contrast=4
