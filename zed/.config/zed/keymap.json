@@ -63,5 +63,17 @@
     "bindings": {
       "alt-shift-down": "editor::DuplicateLineDown"
     }
+  },
+  {
+    "context": "Editor && mode == full",
+    "bindings": {
+      "alt-z": "editor::ToggleSoftWrap"
+    }
+  },
+  {
+    "context": "Editor && mode == full",
+    "unbind": {
+      "ctrl-k z": "editor::ToggleSoftWrap"
+    }
   }
 ]
