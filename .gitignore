@@ -1,14 +1,2 @@
-# ignore all
-*
-
-# whitelist folders
-!kde/
-!kde/**/*
-!kitty/
-!kitty/**/*
-!zed/
-!zed/**/*
-
-# whitelist file
-!.gitignore
-!Makefile
+# ignore files
+zed/.config/zed/settings_backup.json
